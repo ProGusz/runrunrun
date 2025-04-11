@@ -1,2 +1,1 @@
-"# runrunrun" 
-Remove Library folder เนื่องจากขนาดใหญ่เกินไป
+เกมที่ทำในค่าย ddct 
